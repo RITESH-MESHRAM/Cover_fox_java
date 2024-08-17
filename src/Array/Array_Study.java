@@ -58,6 +58,7 @@ public class Array_Study {
 			System.out.println(Age[i]);
 			
 		}
+		//System.out.println("Hello!");
 		
 	}
 
